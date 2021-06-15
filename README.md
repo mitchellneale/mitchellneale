@@ -13,14 +13,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## About Me
-Full Stack Web Developer currently developing web applications with the MERN Stack
+Full Stack Web Developer currently developing web applications with the MERN Stack.
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/mitchellneale/) or [Stack Overflow](https://stackoverflow.com/users/15049499/mitchell-neale?tab=profile)!
 
 ## Tools & Technologies
 ![Azure](https://img.shields.io/badge/-Azure-000?style=flat&logo=microsoft-azure&logoColor=microsoft-azure&color=404254)
 ![CSS](https://img.shields.io/badge/-CSS-000?style=flat&logo=css3&logoColor=css3&color=404254)
-![C#](https://img.shields.io/badge/-C%23-000?style=flat&logo=c-sharp&logoColor=c-sharp&color=404254)
+![C-Sharp](https://img.shields.io/badge/-C%23-000?style=flat&logo=C-Sharp&logoColor=239120&color=404254)
 ![Git](https://img.shields.io/badge/-Git-000?style=flat&logo=git&logoColor=git&color=404254)
 ![HTML](https://img.shields.io/badge/-HTML-000?style=flat&logo=html5&logoColor=html&color=404254)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat&logoColor=javascript&logo=javascript&color=404254)
