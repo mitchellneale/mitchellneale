@@ -34,4 +34,5 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/mitchellneale/) or [St
 ![Vue](https://img.shields.io/badge/-Vue.js-000?style=flat&logoColor=Vue.js&logo=Vue.js&color=404254)
 
 ## Stats
-![Mitchell's GitHub stats](https://github-readme-stats.vercel.app/api?username=mitchellneale&show_icons=true&count_private=true&theme=algolia) 
+![Mitchell's GitHub stats](https://github-readme-stats.vercel.app/api?username=mitchellneale&show_icons=true&&count_private=true&&theme=algolia)
+![Current Streak](https://github-readme-streak-stats.herokuapp.com/?user=mitchellneale&&hide_border=false&&theme=algolia)
