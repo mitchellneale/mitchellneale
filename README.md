@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## About Me
-Full Stack Web Developer currently developing web applications with the MERN Stack.
+Full Stack Web Developer currently creating web applications with the MERN Stack.
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/mitchellneale/) or [Stack Overflow](https://stackoverflow.com/users/15049499/mitchell-neale?tab=profile)!
 
