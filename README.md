@@ -36,3 +36,6 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/mitchellneale/) or [St
 ## Stats
 ![Mitchell's GitHub stats](https://github-readme-stats.vercel.app/api?username=mitchellneale&show_icons=true&&count_private=true&&theme=algolia)
 ![Current Streak](https://github-readme-streak-stats.herokuapp.com/?user=mitchellneale&&hide_border=false&&theme=algolia)
+
+## Contact 
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=mitchellneale.visitor-badge)
