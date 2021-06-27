@@ -32,6 +32,7 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/mitchellneale/) or [St
 ![Python](https://img.shields.io/badge/-Python-000?style=flat&logoColor=python&logo=python&color=404254)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=flat&logoColor=TypeScript&logo=TypeScript&color=404254)
 ![Vue](https://img.shields.io/badge/-Vue.js-000?style=flat&logoColor=Vue.js&logo=Vue.js&color=404254)
+![WebPack](https://img.shields.io/badge/-Webpack-000?style=flat&logoColor=Webpack&logo=Webpack&color=404254)
 
 ## Stats
 ![Mitchell's GitHub stats](https://github-readme-stats.vercel.app/api?username=mitchellneale&show_icons=true&&count_private=true&&theme=algolia)
