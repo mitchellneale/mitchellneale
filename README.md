@@ -28,11 +28,11 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/mitchellneale/) or [St
 ![Express](https://img.shields.io/badge/-Express-000?style=flat&logo=express&logoColor=express&color=404254)
 ![React](https://img.shields.io/badge/-React-000?style=flat&logoColor=react&logo=React&color=404254)
 ![Node](https://img.shields.io/badge/-Node.js-000?style=flat&logoColor=Node.JS&logo=Node.JS&color=404254)
-![NPM](https://img.shields.io/badge/-NPM-000?style=flat&logoColor=orange&logo=npm&color=404254)
+![npm](https://img.shields.io/badge/-npm-000?style=flat&logoColor=orange&logo=npm&color=404254)
 ![Python](https://img.shields.io/badge/-Python-000?style=flat&logoColor=python&logo=python&color=404254)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=flat&logoColor=TypeScript&logo=TypeScript&color=404254)
 ![Vue](https://img.shields.io/badge/-Vue.js-000?style=flat&logoColor=Vue.js&logo=Vue.js&color=404254)
-![WebPack](https://img.shields.io/badge/-Webpack-000?style=flat&logoColor=Webpack&logo=Webpack&color=404254)
+![webPack](https://img.shields.io/badge/-webpack-000?style=flat&logoColor=Webpack&logo=Webpack&color=404254)
 
 ## Stats
 ![Mitchell's GitHub stats](https://github-readme-stats.vercel.app/api?username=mitchellneale&show_icons=true&&count_private=true&&theme=algolia)
