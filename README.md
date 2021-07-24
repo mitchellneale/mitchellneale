@@ -16,9 +16,10 @@ Here are some ideas to get you started:
 I am a Full Stack Web Developer currently creating web applications with the JavaScript MERN Stack.
 
 ## Connect with me
-- **Email:** mitchellneale@protonmail.com
 - [LinkedIn](https://www.linkedin.com/in/mitchellneale/) 
 - [Stack Overflow](https://stackoverflow.com/users/15049499/mitchell-neale?tab=profile)
+- [Blog](https://medium.com/@mitchelldneale)
+- **Email:** mitchellneale@protonmail.com
 
 ## Tools & Technologies
 ![Azure](https://img.shields.io/badge/-Azure-000?style=flat&logo=microsoft-azure&logoColor=microsoft-azure&color=404254)
@@ -31,6 +32,7 @@ I am a Full Stack Web Developer currently creating web applications with the Jav
 ![Express](https://img.shields.io/badge/-Express-000?style=flat&logo=express&logoColor=express&color=404254)
 ![React](https://img.shields.io/badge/-React-000?style=flat&logoColor=react&logo=React&color=404254)
 ![Node](https://img.shields.io/badge/-Node.js-000?style=flat&logoColor=Node.JS&logo=Node.JS&color=404254)
+![Next](https://img.shields.io/badge/-Next.js-000?style=flat&logoColor=Next.js&logo=Next.js&color=404254)
 ![npm](https://img.shields.io/badge/-npm-000?style=flat&logoColor=orange&logo=npm&color=404254)
 ![Python](https://img.shields.io/badge/-Python-000?style=flat&logoColor=python&logo=python&color=404254)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=flat&logoColor=TypeScript&logo=TypeScript&color=404254)
@@ -41,10 +43,10 @@ I am a Full Stack Web Developer currently creating web applications with the Jav
 ![Mitchell's GitHub stats](https://github-readme-stats.vercel.app/api?username=mitchellneale&show_icons=true&&count_private=true&&theme=algolia)
 ![Current Streak](https://github-readme-streak-stats.herokuapp.com/?user=mitchellneale&&hide_border=false&&theme=algolia)
 
-## My Learning Path
+## My Learning Path So Far
 - NodeJS from [The Odin Project](https://www.theodinproject.com/paths/full-stack-javascript/courses/nodejs) - **Current Objective**
 - I'm finishing up my WineWiki app using the [Global Wine Score™ API](https://www.globalwinescore.com/api/)
-- JavaScript and React from [The Odin Project](https://www.theodinproject.com/paths/full-stack-javascript/courses/javascript) - OOP Principles, ES6 Modules, Async and Await, React, Test Driven Development with Jest, and BaaS using Firebase
+- JavaScript and React from [The Odin Project](https://www.theodinproject.com/paths/full-stack-javascript/courses/javascript) - OOP Principles, ES6 Modules, Async APIs, React, TDD with Jest, and BaaS using Firebase
 - Web Foundations from [The Odin Project](https://www.theodinproject.com/paths/foundations/courses/foundations)
 - Responsive Design from [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Responsive_Design)
 ## Visitors 
