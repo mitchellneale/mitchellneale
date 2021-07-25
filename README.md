@@ -18,7 +18,7 @@ I am a Full Stack Web Developer currently creating web applications with the Jav
 ## Connect with me
 - [LinkedIn](https://www.linkedin.com/in/mitchellneale/) 
 - [Stack Overflow](https://stackoverflow.com/users/15049499/mitchell-neale?tab=profile)
-- [Blog](https://medium.com/@mitchelldneale)
+- [Blog](https://medium.com/@mitchellneale)
 - **Email:** mitchellneale@protonmail.com
 
 ## Tools & Technologies
@@ -45,9 +45,9 @@ I am a Full Stack Web Developer currently creating web applications with the Jav
 
 ## My Learning Path So Far
 - NodeJS from [The Odin Project](https://www.theodinproject.com/paths/full-stack-javascript/courses/nodejs) - **Current Objective**
-- I'm finishing up my WineWiki app using the [Global Wine Score™ API](https://www.globalwinescore.com/api/)
 - JavaScript and React from [The Odin Project](https://www.theodinproject.com/paths/full-stack-javascript/courses/javascript) - OOP Principles, ES6 Modules, Async APIs, React, TDD with Jest, and BaaS using Firebase
 - Web Foundations from [The Odin Project](https://www.theodinproject.com/paths/foundations/courses/foundations)
-- Responsive Design from [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Responsive_Design)
+- Web Development from [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn)
+- Responsive Web Design from [freeCodeCamp](https://www.freecodecamp.org/learn/responsive-web-design/)
 ## Visitors 
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=mitchellneale.visitor-badge)
