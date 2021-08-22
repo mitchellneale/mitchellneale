@@ -19,7 +19,6 @@ I am a Full Stack Web Developer currently creating web applications with the Jav
 - [LinkedIn](https://www.linkedin.com/in/mitchellneale/) 
 - [Stack Overflow](https://stackoverflow.com/users/15049499/mitchell-neale?tab=profile)
 - [Blog](https://medium.com/@mitchellneale)
-- **Email:** mitchellneale@protonmail.com
 
 ## Tools & Technologies
 ![Azure](https://img.shields.io/badge/-Azure-000?style=flat&logo=microsoft-azure&logoColor=microsoft-azure&color=404254)
