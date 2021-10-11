@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## About Me
-I am a Full Stack Software Engineer currently creating web applications with C# ASP.NET and the JavaScript MERN stack.
+I'm a Full Stack Software Engineer currently creating web applications with C#, ASP.NET, and the JavaScript MERN stack.
 
 ## Connect with me
 - [LinkedIn](https://www.linkedin.com/in/mitchellneale/) 
