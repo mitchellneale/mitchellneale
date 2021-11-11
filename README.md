@@ -14,13 +14,35 @@ Here are some ideas to get you started:
 -->
 ## About Me
 I'm a Full Stack Software Engineer currently creating web applications with C#, ASP.NET, and the JavaScript MERN stack.
-
+- My latest projects are available here on GitHub or at https://www.mitchellneale.com
+<!--
 ## Connect with me
 - [LinkedIn](https://www.linkedin.com/in/mitchellneale/) 
 - [Stack Overflow](https://stackoverflow.com/users/15049499/mitchell-neale?tab=profile)
 - [Blog](https://medium.com/@mitchellneale)
+-->
+## Connect with me  
+<div align="center">
+<a href="https://github.com/mitchellneale" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/MitchellDNeale" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/mitchellneale/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/15049499/mitchell-neale" target="_blank">
+<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
+</a>
+<a href="https://medium.com/https://medium.com/@mitchellneale" target="_blank">
+<img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
+</a>  
+</div>  
 
 ## Tools & Technologies
+<div align="center">   
+  
 ![Azure](https://img.shields.io/badge/-Azure-000?style=flat&logo=microsoft-azure&logoColor=microsoft-azure&color=404254)
 ![CSS](https://img.shields.io/badge/-CSS-000?style=flat&logo=CSS3&logoColor=264DE4&color=404254)
 ![C-Sharp](https://img.shields.io/badge/-C%23-000?style=flat&logo=C-Sharp&logoColor=239120&color=404254)
@@ -37,16 +59,26 @@ I'm a Full Stack Software Engineer currently creating web applications with C#, 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=flat&logoColor=TypeScript&logo=TypeScript&color=404254)
 ![Vue](https://img.shields.io/badge/-Vue.js-000?style=flat&logoColor=Vue.js&logo=Vue.js&color=404254)
 ![webPack](https://img.shields.io/badge/-webpack-000?style=flat&logoColor=Webpack&logo=Webpack&color=404254)
+</div>
+  
+## GitHub Stats
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=mitchellneale&show_icons=true&&count_private=true&&theme=algolia" align="center" />
 
-## Stats
-![Mitchell's GitHub stats](https://github-readme-stats.vercel.app/api?username=mitchellneale&show_icons=true&&count_private=true&&theme=algolia)
-![Current Streak](https://github-readme-streak-stats.herokuapp.com/?user=mitchellneale&&hide_border=false&&theme=algolia)
-
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mitchellneale&&hide_border=false&&theme=algolia"
+align="center" />
+</div>  
+  
 ## My Learning Path So Far
-- NodeJS from [The Odin Project](https://www.theodinproject.com/paths/full-stack-javascript/courses/nodejs) - **Current Objective**
-- JavaScript and React from [The Odin Project](https://www.theodinproject.com/paths/full-stack-javascript/courses/javascript) - OOP Principles, ES6 Modules, Async APIs, React, TDD with Jest, and BaaS using Firebase
+- Microsoft Azure Fundamentals [(AZ-900)](https://docs.microsoft.com/en-us/learn/certifications/exams/az-900) - **Current Objective**
+- Pro ASP.NET MVC 5 from [Apress](https://link.springer.com/book/10.1007/978-1-4302-6542-9) - Routing, Controllers, Ajax Helper Methods, Model Validation, and Web APIs
+- LinkedIn Learning [Courses](https://www.linkedin.com/learning/) - .NET HTTP Request Life Cycle, Async/Await in C#, Azure Storage, Power BI, SQL Server 2019, and OOP in Python
+- NodeJS from [The Odin Project](https://www.theodinproject.com/paths/full-stack-javascript/courses/nodejs) 
+- JavaScript and React from [The Odin Project](https://www.theodinproject.com/paths/full-stack-javascript/courses/javascript) - OOP, ES6 Modules, Async APIs, React, TDD with Jest, and BaaS with Firebase
 - Web Foundations from [The Odin Project](https://www.theodinproject.com/paths/foundations/courses/foundations)
 - Web Development from [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn)
 - Responsive Web Design from [freeCodeCamp](https://www.freecodecamp.org/learn/responsive-web-design/)
 ## Visitors 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=mitchellneale.visitor-badge)
+<div align="center">
+<img src="https://visitor-badge.glitch.me/badge?page_id=mitchellneale.visitor-badge" align="center" />
+</div>
