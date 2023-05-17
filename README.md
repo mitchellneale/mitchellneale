@@ -77,7 +77,8 @@ align="center" />
 - Web Foundations from [The Odin Project](https://www.theodinproject.com/paths/foundations/courses/foundations)
 - Web Development from [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn)
 - Responsive Web Design from [freeCodeCamp](https://www.freecodecamp.org/learn/responsive-web-design/)
+<!--
 ## Visitors 
 <div align="center">
 <img src="https://visitor-badge.glitch.me/badge?page_id=mitchellneale.visitor-badge" align="center" />
-</div>
+</div> -->
