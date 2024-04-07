@@ -69,7 +69,6 @@ align="center" />
 </div>  
   
 ## My Learning Path So Far
-- Microsoft Azure Fundamentals [(AZ-900)](https://docs.microsoft.com/en-us/learn/certifications/exams/az-900) - **Current Objective**
 - Pro ASP.NET MVC 5 from [Apress](https://link.springer.com/book/10.1007/978-1-4302-6542-9) - Routing, Controllers, Ajax Helper Methods, Model Validation, and Web APIs
 - LinkedIn Learning [Courses](https://www.linkedin.com/learning/) - .NET HTTP Request Life Cycle, Async/Await in C#, Azure Storage, Power BI, SQL Server 2019, and OOP in Python
 - NodeJS from [The Odin Project](https://www.theodinproject.com/paths/full-stack-javascript/courses/nodejs) - Express, MongoDB, MVC, Authentication, APIs, and NodeJS
