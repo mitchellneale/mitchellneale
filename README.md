@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## About Me
-I'm a Full Stack Software Engineer currently creating web applications with C#, ASP.NET, and the JavaScript MERN stack.
+I'm a Full Stack Software Engineer currently creating web applications with Azure, C#, ASP.NET, and the JavaScript MERN stack.
 - My latest projects are available here on GitHub or at https://www.mitchellneale.com
 <!--
 ## Connect with me
@@ -25,11 +25,11 @@ I'm a Full Stack Software Engineer currently creating web applications with C#, 
 <a href="https://github.com/mitchellneale" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://twitter.com/MitchellDNeale" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
 <a href="https://www.linkedin.com/in/mitchellneale/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://learn.microsoft.com/en-us/users/mitchellneale/" target="_blank">
+<img src=https://img.shields.io/badge/Microsoft_Learn-258ffa?style=for-the-badge&logo=microsoft&logoColor=white />
 </a>
 <a href="https://stackoverflow.com/users/15049499/mitchell-neale" target="_blank">
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
@@ -37,6 +37,9 @@ I'm a Full Stack Software Engineer currently creating web applications with C#, 
 <a href="https://medium.com/@mitchellneale" target="_blank">
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a>  
+<a href="https://twitter.com/MitchellDNeale" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
 </div>  
 
 ## Tools & Technologies
@@ -69,7 +72,6 @@ align="center" />
 </div>  
   
 ## My Learning Path So Far
-- Certified Associate in Project Management (CAPM) from the Project Management Institute (PMI)
 - Pro ASP.NET MVC 5 from [Apress](https://link.springer.com/book/10.1007/978-1-4302-6542-9) - Routing, Controllers, Ajax Helper Methods, Model Validation, and Web APIs
 - LinkedIn Learning [Courses](https://www.linkedin.com/learning/) - .NET HTTP Request Life Cycle, Async/Await in C#, Azure Storage, Power BI, SQL Server 2019, and OOP in Python
 - NodeJS from [The Odin Project](https://www.theodinproject.com/paths/full-stack-javascript/courses/nodejs) - Express, MongoDB, MVC, Authentication, APIs, and NodeJS
@@ -77,6 +79,12 @@ align="center" />
 - Web Foundations from [The Odin Project](https://www.theodinproject.com/paths/foundations/courses/foundations)
 - Web Development from [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn)
 - Responsive Web Design from [freeCodeCamp](https://www.freecodecamp.org/learn/responsive-web-design/)
+
+## Certifications 
+- AZ-900 - Azure Fundamentals from Microsoft Learn
+- SC-900 - Security, Compliance, and Identity Fundamentals from Microsoft Learn
+- CAPM - Certified Associate in Project Management from the Project Management Institute (PMI)
+
 <!--
 ## Visitors 
 <div align="center">
