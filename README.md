@@ -70,8 +70,16 @@ I'm a Full Stack Software Engineer currently creating web applications with Azur
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mitchellneale&&hide_border=false&&theme=algolia"
 align="center" />
 </div>  
+
+
+## Certifications 
+- AZ-900 - Azure Fundamentals from Microsoft Learn
+- SC-900 - Security, Compliance, and Identity Fundamentals from Microsoft Learn
+- MB-920 - Dynamics 365 Fundamentals (ERP) from Microsoft Learn
+- CAPM - Certified Associate in Project Management from the Project Management Institute (PMI)
+
   
-## My Learning Path So Far
+## Courses
 - Pro ASP.NET MVC 5 from [Apress](https://link.springer.com/book/10.1007/978-1-4302-6542-9) - Routing, Controllers, Ajax Helper Methods, Model Validation, and Web APIs
 - LinkedIn Learning [Courses](https://www.linkedin.com/learning/) - .NET HTTP Request Life Cycle, Async/Await in C#, Azure Storage, Power BI, SQL Server 2019, and OOP in Python
 - NodeJS from [The Odin Project](https://www.theodinproject.com/paths/full-stack-javascript/courses/nodejs) - Express, MongoDB, MVC, Authentication, APIs, and NodeJS
@@ -79,11 +87,6 @@ align="center" />
 - Web Foundations from [The Odin Project](https://www.theodinproject.com/paths/foundations/courses/foundations)
 - Web Development from [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn)
 - Responsive Web Design from [freeCodeCamp](https://www.freecodecamp.org/learn/responsive-web-design/)
-
-## Certifications 
-- AZ-900 - Azure Fundamentals from Microsoft Learn
-- SC-900 - Security, Compliance, and Identity Fundamentals from Microsoft Learn
-- CAPM - Certified Associate in Project Management from the Project Management Institute (PMI)
 
 <!--
 ## Visitors 
