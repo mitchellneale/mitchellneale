@@ -76,6 +76,7 @@ align="center" />
 - AZ-900 - Azure Fundamentals from Microsoft Learn
 - SC-900 - Security, Compliance, and Identity Fundamentals from Microsoft Learn
 - MB-920 - Dynamics 365 Fundamentals (ERP) from Microsoft Learn
+- PL-900 - Power Platform Fundamentals from Microsoft Learn
 - CAPM - Certified Associate in Project Management from the Project Management Institute (PMI)
 
   
