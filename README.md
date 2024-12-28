@@ -78,6 +78,8 @@ align="center" />
 - MB-920 - Dynamics 365 Fundamentals (ERP) from Microsoft Learn
 - PL-900 - Power Platform Fundamentals from Microsoft Learn
 - CAPM - Certified Associate in Project Management from the Project Management Institute (PMI)
+- CSPO - Certified Scrum Product Owner from Scrum Alliance
+- CSM - Certified Scrum Master from Scrum Alliance 
 
   
 ## Courses
