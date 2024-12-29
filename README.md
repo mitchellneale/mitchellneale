@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## About Me
-I'm a Full Stack Software Engineer currently creating web applications with Azure, C#, ASP.NET, and the JavaScript MERN stack.
+I'm a Full Stack Software Engineer currently creating web applications with Azure, C#, Dynamics 365, .NET, and the JavaScript MERN stack.
 - My latest projects are available here on GitHub or at https://www.mitchellneale.com
 <!--
 ## Connect with me
