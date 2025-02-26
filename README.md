@@ -34,9 +34,6 @@ I'm a Full Stack Software Engineer currently creating web applications with Azur
 <a href="https://stackoverflow.com/users/15049499/mitchell-neale" target="_blank">
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>
-<a href="https://medium.com/@mitchellneale" target="_blank">
-<img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
-</a>  
 <a href="https://twitter.com/MitchellDNeale" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
@@ -66,9 +63,6 @@ I'm a Full Stack Software Engineer currently creating web applications with Azur
 ## GitHub Stats
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=mitchellneale&show_icons=true&&count_private=true&&theme=algolia" align="center" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mitchellneale&&hide_border=false&&theme=algolia"
-align="center" />
 </div>  
 
 
