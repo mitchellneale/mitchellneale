@@ -67,10 +67,11 @@ I'm a Full Stack Software Engineer currently creating web applications with Azur
 
 
 ## Certifications 
-- AZ-900 - Azure Fundamentals from Microsoft Learn
-- SC-900 - Security, Compliance, and Identity Fundamentals from Microsoft Learn
-- MB-920 - Dynamics 365 Fundamentals (ERP) from Microsoft Learn
-- PL-900 - Power Platform Fundamentals from Microsoft Learn
+- AZ-900 - Azure Fundamentals 
+- SC-900 - Security, Compliance, and Identity Fundamentals 
+- MB-800 - Business Central Functional Consultant Associate
+- MB-920 - Dynamics 365 Fundamentals (ERP) 
+- PL-900 - Power Platform Fundamentals 
 - CAPM - Certified Associate in Project Management from the Project Management Institute (PMI)
 - CSPO - Certified Scrum Product Owner from Scrum Alliance
 - CSM - Certified Scrum Master from Scrum Alliance 
