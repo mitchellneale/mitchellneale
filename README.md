@@ -69,7 +69,7 @@ I'm a Full Stack Software Engineer currently creating web applications with Azur
 ## Certifications 
 - AZ-900 - Azure Fundamentals 
 - SC-900 - Security, Compliance, and Identity Fundamentals 
-- MB-800 - Business Central Functional Consultant Associate
+- MB-800 - Dynamics 365 Business Central Functional Consultant Associate
 - MB-920 - Dynamics 365 Fundamentals (ERP) 
 - PL-900 - Power Platform Fundamentals 
 - CAPM - Certified Associate in Project Management from the Project Management Institute (PMI)
