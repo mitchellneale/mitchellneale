@@ -15,11 +15,7 @@ Here are some ideas to get you started:
 ## About Me
 Building solutions with Dynamics 365, Power Platform, Azure, and .NET.
 My latest projects are available here or at [mitchellneale.com](https://www.mitchellneale.com).
-<!--
-## Connect with me
-- [LinkedIn](https://www.linkedin.com/in/mitchellneale/) 
-- [Stack Overflow](https://stackoverflow.com/users/15049499/mitchell-neale?tab=profile)
-- [Blog](https://medium.com/@mitchellneale) -->
+
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/mitchellneale" target="_blank">
@@ -34,17 +30,15 @@ My latest projects are available here or at [mitchellneale.com](https://www.mitc
 <a href="https://stackoverflow.com/users/15049499/mitchell-neale" target="_blank">
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>
-<a href="https://twitter.com/MitchellDNeale" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
 </div>  
 
 ## Tools & Technologies
 <div align="center">   
   
-![Azure](https://img.shields.io/badge/-Azure-000?style=flat&logo=microsoft-azure&logoColor=microsoft-azure&color=404254)
+![Azure](https://img.shields.io/badge/-Azure-000?style=flat&logo=microsoft-azure&logoColor=white&color=404254)
 ![CSS](https://img.shields.io/badge/-CSS-000?style=flat&logo=CSS3&logoColor=264DE4&color=404254)
 ![C-Sharp](https://img.shields.io/badge/-C%23-000?style=flat&logo=C-Sharp&logoColor=239120&color=404254)
+![Dynamics 365](https://img.shields.io/badge/-Dynamics%20365-000?style=flat&logo=microsoft&logoColor=white&color=404254)
 ![Git](https://img.shields.io/badge/-Git-000?style=flat&logo=git&logoColor=git&color=404254)
 ![HTML](https://img.shields.io/badge/-HTML-000?style=flat&logo=html5&logoColor=html&color=404254)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat&logoColor=javascript&logo=javascript&color=404254)
@@ -52,12 +46,9 @@ My latest projects are available here or at [mitchellneale.com](https://www.mitc
 ![Express](https://img.shields.io/badge/-Express-000?style=flat&logo=express&logoColor=express&color=404254)
 ![React](https://img.shields.io/badge/-React-000?style=flat&logoColor=react&logo=React&color=404254)
 ![Node](https://img.shields.io/badge/-Node.js-000?style=flat&logoColor=Node.JS&logo=Node.JS&color=404254)
-![Next](https://img.shields.io/badge/-Next.js-000?style=flat&logoColor=Next.js&logo=Next.js&color=404254)
-![npm](https://img.shields.io/badge/-npm-000?style=flat&logoColor=orange&logo=npm&color=404254)
+![Power BI](https://img.shields.io/badge/-Power%20BI-000?style=flat&logo=powerbi&logoColor=white&color=404254)
+![Power Platform](https://img.shields.io/badge/-Power%20Platform-000?style=flat&logo=powerbi&logoColor=white&color=404254)
 ![Python](https://img.shields.io/badge/-Python-000?style=flat&logoColor=python&logo=python&color=404254)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=flat&logoColor=TypeScript&logo=TypeScript&color=404254)
-![Vue](https://img.shields.io/badge/-Vue.js-000?style=flat&logoColor=Vue.js&logo=Vue.js&color=404254)
-![webPack](https://img.shields.io/badge/-webpack-000?style=flat&logoColor=Webpack&logo=Webpack&color=404254)
 </div>
   
 ## GitHub Stats
@@ -86,8 +77,3 @@ My latest projects are available here or at [mitchellneale.com](https://www.mitc
 - Web Development from [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn)
 - Responsive Web Design from [freeCodeCamp](https://www.freecodecamp.org/learn/responsive-web-design/)
 
-<!--
-## Visitors 
-<div align="center">
-<img src="https://visitor-badge.glitch.me/badge?page_id=mitchellneale.visitor-badge" align="center" />
-</div> -->
