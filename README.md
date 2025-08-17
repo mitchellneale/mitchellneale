@@ -13,8 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## About Me
-Building solutions with Dynamics 365, Power Platform, Azure, and .NET.
-My latest projects are available here or at [mitchellneale.com](https://www.mitchellneale.com).
+Building solutions with Dynamics 365 Business Central, Power BI, and Azure.
 
 ## Connect with me  
 <div align="center">
