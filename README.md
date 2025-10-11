@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## About Me
-Building solutions with Dynamics 365 Business Central, Power BI, and Azure.
+Business Central Functional Consultant with 7 years of experience in Dynamics 365 Business Central implementations and software development. Strong background in business analysis, fit-gap analysis, data migration, and supply chain management, with proven success delivering ERP solutions across industries.
 
 ## Connect with me  
 <div align="center">
@@ -40,11 +40,6 @@ Building solutions with Dynamics 365 Business Central, Power BI, and Azure.
 ![Dynamics 365](https://img.shields.io/badge/-Dynamics%20365-000?style=flat&logo=microsoft&logoColor=white&color=404254)
 ![Git](https://img.shields.io/badge/-Git-000?style=flat&logo=git&logoColor=git&color=404254)
 ![HTML](https://img.shields.io/badge/-HTML-000?style=flat&logo=html5&logoColor=html&color=404254)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat&logoColor=javascript&logo=javascript&color=404254)
-![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=flat&logo=mongodb&logoColor=mongodb&color=404254)
-![Express](https://img.shields.io/badge/-Express-000?style=flat&logo=express&logoColor=express&color=404254)
-![React](https://img.shields.io/badge/-React-000?style=flat&logoColor=react&logo=React&color=404254)
-![Node](https://img.shields.io/badge/-Node.js-000?style=flat&logoColor=Node.JS&logo=Node.JS&color=404254)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-000?style=flat&logo=powerbi&logoColor=white&color=404254)
 ![Power Platform](https://img.shields.io/badge/-Power%20Platform-000?style=flat&logo=powerbi&logoColor=white&color=404254)
 ![Python](https://img.shields.io/badge/-Python-000?style=flat&logoColor=python&logo=python&color=404254)
@@ -57,17 +52,21 @@ Building solutions with Dynamics 365 Business Central, Power BI, and Azure.
 
 
 ## Certifications 
-- AZ-900 - Azure Fundamentals 
-- SC-900 - Security, Compliance, and Identity Fundamentals 
-- MB-800 - Dynamics 365 Business Central Functional Consultant Associate
-- MB-920 - Dynamics 365 Fundamentals (ERP) 
-- PL-900 - Power Platform Fundamentals 
-- CAPM - Certified Associate in Project Management from the Project Management Institute (PMI)
-- CSPO - Certified Scrum Product Owner from Scrum Alliance
-- CSM - Certified Scrum Master from Scrum Alliance 
+- **MB-800** - [Dynamics 365 Business Central Functional Consultant Associate](https://learn.microsoft.com/en-us/users/mitchellneale/credentials/84b8a882ddf57687)
+- **MB-920** - [Dynamics 365 Fundamentals (ERP)](https://learn.microsoft.com/en-us/users/mitchellneale/credentials/7e6faf39d23373d)
+- **PL-900** - [Power Platform Fundamentals](https://learn.microsoft.com/en-us/users/mitchellneale/credentials/4713ace36469f873)
+- **AZ-900** - [Azure Fundamentals](https://learn.microsoft.com/en-us/users/mitchellneale/credentials/304a0fb91cc1e550) 
+- **SC-900** - [Security, Compliance, and Identity Fundamentals](https://learn.microsoft.com/en-us/users/mitchellneale/credentials/7bb92ca1cba8e9a5)
+- **CAPM** - [Certified Associate in Project Management](https://www.credly.com/badges/473a61a6-7726-4eb1-bc7b-b929df9c2af7/public_url) from the Project Management Institute (PMI)
+- **CSPO** - [Certified Scrum Product Owner](https://certification.scrumalliance.org/accounts/1715826-mitchell-neale/certifications/2030600-cspo) from Scrum Alliance
+- **CSM** - [Certified Scrum Master](https://certification.scrumalliance.org/accounts/1715826-mitchell-neale/certifications/2033358-csm) from Scrum Alliance 
 
   
 ## Courses
+- **Business Central and Excel: The Ultimate Guide to Rapidstart** from [Udemy](https://www.udemy.com/course/business-central-and-excel-the-ultimate-guide-to-rapidstart/?couponCode=ACCAGE0923) - Data Migration, Configuration Packages, Bulk Editing and Creating Records in Excel. 
+- **Business Central User Administration: The Ultimate Guide** from [Udemy](https://www.udemy.com/course/business-central-user-administration-the-ultimate-guide/?couponCode=ACCAGE0923) - Permission Sets, Profiles, and Users.
+- **Microsoft Dynamics 365 Business Central Supply Chain Essentials** from [Use Dynamics](https://usedynamics.com/exams/certificate/?certificate=7404611c6c) - Covers purchasing, sales, and inventory workflows in  Business Central, focusing on items, orders, and warehouse features.
+- **Microsoft Dynamics 365 Business Central Finance Essentials** from [Use Dynamics](https://usedynamics.com/exams/certificate/?certificate=73977bb05b) - Covers core Finance modules in Business Central, including general ledger setup, transactions, dimensions, and reporting.
 - Pro ASP.NET MVC 5 from [Apress](https://link.springer.com/book/10.1007/978-1-4302-6542-9) - Routing, Controllers, Ajax Helper Methods, Model Validation, and Web APIs
 - LinkedIn Learning [Courses](https://www.linkedin.com/learning/) - .NET HTTP Request Life Cycle, Async/Await in C#, Azure Storage, Power BI, SQL Server 2019, and OOP in Python
 - NodeJS from [The Odin Project](https://www.theodinproject.com/paths/full-stack-javascript/courses/nodejs) - Express, MongoDB, MVC, Authentication, APIs, and NodeJS
