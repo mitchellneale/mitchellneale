@@ -1,17 +1,3 @@
-<!--
-**mitchellneale/mitchellneale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 ## About Me
 Business Central Functional Consultant with 7 years of experience in Dynamics 365 Business Central implementations and software development. Strong background in business analysis, fit-gap analysis, data migration, and supply chain management, with proven success delivering ERP solutions across industries.
 
@@ -35,8 +21,6 @@ Business Central Functional Consultant with 7 years of experience in Dynamics 36
 <div align="center">   
   
 ![Azure](https://img.shields.io/badge/-Azure-000?style=flat&logo=microsoft-azure&logoColor=white&color=404254)
-![CSS](https://img.shields.io/badge/-CSS-000?style=flat&logo=CSS3&logoColor=264DE4&color=404254)
-![C-Sharp](https://img.shields.io/badge/-C%23-000?style=flat&logo=C-Sharp&logoColor=239120&color=404254)
 ![Dynamics 365](https://img.shields.io/badge/-Dynamics%20365-000?style=flat&logo=microsoft&logoColor=white&color=404254)
 ![Git](https://img.shields.io/badge/-Git-000?style=flat&logo=git&logoColor=git&color=404254)
 ![HTML](https://img.shields.io/badge/-HTML-000?style=flat&logo=html5&logoColor=html&color=404254)
@@ -44,12 +28,6 @@ Business Central Functional Consultant with 7 years of experience in Dynamics 36
 ![Power Platform](https://img.shields.io/badge/-Power%20Platform-000?style=flat&logo=powerbi&logoColor=white&color=404254)
 ![Python](https://img.shields.io/badge/-Python-000?style=flat&logoColor=python&logo=python&color=404254)
 </div>
-  
-## GitHub Stats
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=mitchellneale&show_icons=true&&count_private=true&&theme=algolia" align="center" />
-</div>  
-
 
 ## Certifications 
 - **MB-800** - [Dynamics 365 Business Central Functional Consultant Associate](https://learn.microsoft.com/en-us/users/mitchellneale/credentials/84b8a882ddf57687)
@@ -67,11 +45,3 @@ Business Central Functional Consultant with 7 years of experience in Dynamics 36
 - **Business Central User Administration: The Ultimate Guide** from [Udemy](https://www.udemy.com/course/business-central-user-administration-the-ultimate-guide/?couponCode=ACCAGE0923) - Permission Sets, Profiles, and Users.
 - **Microsoft Dynamics 365 Business Central Supply Chain Essentials** from [Use Dynamics](https://usedynamics.com/exams/certificate/?certificate=7404611c6c) - Covers purchasing, sales, and inventory workflows in  Business Central, focusing on items, orders, and warehouse features.
 - **Microsoft Dynamics 365 Business Central Finance Essentials** from [Use Dynamics](https://usedynamics.com/exams/certificate/?certificate=73977bb05b) - Covers core Finance modules in Business Central, including general ledger setup, transactions, dimensions, and reporting.
-- Pro ASP.NET MVC 5 from [Apress](https://link.springer.com/book/10.1007/978-1-4302-6542-9) - Routing, Controllers, Ajax Helper Methods, Model Validation, and Web APIs
-- LinkedIn Learning [Courses](https://www.linkedin.com/learning/) - .NET HTTP Request Life Cycle, Async/Await in C#, Azure Storage, Power BI, SQL Server 2019, and OOP in Python
-- NodeJS from [The Odin Project](https://www.theodinproject.com/paths/full-stack-javascript/courses/nodejs) - Express, MongoDB, MVC, Authentication, APIs, and NodeJS
-- JavaScript and React from [The Odin Project](https://www.theodinproject.com/paths/full-stack-javascript/courses/javascript) - OOP, ES6 Modules, Async APIs, React, TDD with Jest, and BaaS with Firebase
-- Web Foundations from [The Odin Project](https://www.theodinproject.com/paths/foundations/courses/foundations)
-- Web Development from [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn)
-- Responsive Web Design from [freeCodeCamp](https://www.freecodecamp.org/learn/responsive-web-design/)
-
