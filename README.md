@@ -31,6 +31,7 @@ Business Central Functional Consultant with 7 years of experience in Dynamics 36
 
 ## Certifications 
 - **MB-800** - [Dynamics 365 Business Central Functional Consultant Associate](https://learn.microsoft.com/en-us/users/mitchellneale/credentials/84b8a882ddf57687)
+- **PL-300** - [Power BI Data Analyst Associate](https://learn.microsoft.com/en-us/users/mitchellneale/credentials/bce1402c8ea7b0a0) 
 - **MB-920** - [Dynamics 365 Fundamentals (ERP)](https://learn.microsoft.com/en-us/users/mitchellneale/credentials/7e6faf39d23373d)
 - **PL-900** - [Power Platform Fundamentals](https://learn.microsoft.com/en-us/users/mitchellneale/credentials/4713ace36469f873)
 - **AZ-900** - [Azure Fundamentals](https://learn.microsoft.com/en-us/users/mitchellneale/credentials/304a0fb91cc1e550) 
