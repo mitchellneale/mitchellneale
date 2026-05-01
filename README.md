@@ -1,5 +1,5 @@
 ## About Me
-Business Central Functional Consultant with 7 years of experience in Dynamics 365 Business Central implementations and software development. Strong background in business analysis, fit-gap analysis, data migration, and supply chain management, with proven success delivering ERP solutions across industries.
+Business Central Functional Consultant with 8 years of experience in Dynamics 365 Business Central implementations and software development. Strong background in business analysis, fit-gap analysis, data migration, and supply chain management, with proven success delivering ERP solutions across industries.
 
 ## Connect with me  
 <div align="center">
